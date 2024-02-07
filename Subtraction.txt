@@ -1,4 +1,4 @@
-[200~class Sub{
+class Sub{
 public static void main(String[] args){
 int a=5;
 int b=8;
